@@ -12,7 +12,7 @@ int main()
     Code code;
     code.days = 0;
     code.problem = false;
-    cin>>"Did you do a prblem today?">>code.problem;
+    std::cin>>"Did you do a prblem today?">>code.problem;
     while (code.days < 365)
     {
         if (code.problem)
