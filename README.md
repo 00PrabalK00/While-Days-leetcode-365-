@@ -21,7 +21,7 @@ int main()
         }
         else
         {
-            std::cout &lt;&lt; You Failed" &lt;&lt; std::endl;
+            std::cout &lt;&lt; "You Failed" &lt;&lt; std::endl;
             code.days=0;
         }
       code.problem = false;
