@@ -30,3 +30,11 @@ public:
         return result;
     }
 };
+/*Runtime
+Details
+26ms
+Beats 37.31%of users with C++
+Memory
+Details
+72.15MB
+Beats 9.87%of users with C++*/
