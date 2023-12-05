@@ -44,3 +44,22 @@ public:
 6.3 MB*/
 
 /*what i find weird is that this has a worse time and space complexity i want to read more about this*/
+
+
+class Solution {
+public:
+    int numberOfMatches(int n) {
+        n=n-1;
+        return n;
+    }
+};
+
+/*
+0 ms
+6.3 MB*/
+
+/*Update after 2 hours of trying this code so basically what i oberseved was that if i do
+any kind of arithmetic operation on the return statement it gives a worse
+time complexity
+well i guess debunked*/
+
