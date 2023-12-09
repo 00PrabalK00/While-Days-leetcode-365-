@@ -15,6 +15,7 @@ int main()
     std::cin>>"Did you do a prblem today?">>code.problem;
     while (code.days < 365)
     {
+        std::cin>>"Did you do a prblem today?">>code.problem;
         if (code.problem)
         {
             code.days++;
